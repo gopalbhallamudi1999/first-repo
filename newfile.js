@@ -1,2 +1,1 @@
-console.log('Hello Git');
-console.log('Feature branch change');
+console.log('Conflict from master branch');
