@@ -12,6 +12,20 @@
      },
      {
       "key":"RCOMP",
+      "value":"GCTS 1"
+     }
+    ],
+    "hash":"l1oOoNnejbmHN3lKA2GKsYkXTsk="
+   },
+   {
+    "columns":
+    [
+     {
+      "key":"MANDT",
+      "value":"100"
+     },
+     {
+      "key":"RCOMP",
       "value":"NC1"
      }
     ],
